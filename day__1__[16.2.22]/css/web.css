@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: whitesmoke;
+    background-color: royalblue;
+    padding: 10px;
+    width: 200px;
+    text-align: centera;
+    margin: auto;
+
+}
+
+.nice-link {
+    color: lightblue;
+    background-color: none;
+    
+
+}
+
+.nice-link:hover {
+    color: blue;
+}
+
+.nice-link:active {
+    position: relative;
+    top: 10px;
+}
+
+img {
+    height: 150px;
+    
+}
+
+.p-box {
+
+    padding: 10px;
+    width: 150;
+    border-top: 10px ;
+    background-color: royalblue;
+}
+
+.p-box p {
+    text-align: left;
+    color: whitesmoke;
+}
+
+.up-box{
+
+    background-color: royalblue;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+}
+
+.up-box img {
+
+    padding: 30px;
+    border-radius: 10px 100px / 120px;
+}
+
+.buttons {
+
+    background-color: royalblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+    border: 5px solid royalblue;
+}
+
+button {
+
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 80px;
+    width: 150px;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    line-height: 40px;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+
+    background-color: lightblue;
+}
+
+button:active {
+    position: relative;
+    top: 10px;
+}
